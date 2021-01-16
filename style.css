@@ -1,0 +1,63 @@
+.nav-item:hover {
+    background-color: rgb(209, 226, 226);
+    border-radius: .125em;
+}
+
+#header {
+    padding: 2%;
+}
+
+
+/* #top-banner img {
+    width: 100%;
+} */
+
+#top-banner {
+    width: 90%;
+}
+
+.navbar {
+    padding: 0 0 4rem;
+}
+
+.buy-now:hover {
+    background-color: rgb(48, 45, 45);
+    border: 1px solid white;
+}
+
+#header {
+    background-color: rgb(250, 240, 241);
+}
+
+.title-image {
+    width: 75%;
+}
+
+#top-banner {
+    background-color: rgb(250, 240, 241);
+}
+
+.highlight {
+    color: gold;
+}
+
+.navbar-brand img {
+    width: 50%;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+.noborder {
+    border: 0;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.navbar-items {
+    padding: 0 10px;
+    position: relative;
+}
